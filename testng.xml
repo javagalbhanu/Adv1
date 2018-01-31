@@ -1,0 +1,8 @@
+<suite name="Suite">
+  <test name="Test">
+     <parameter name="app" value="${environment}"/>
+    <classes>
+      <class name="qsp.Demo"/>
+    </classes>
+  </test>
+</suite>
